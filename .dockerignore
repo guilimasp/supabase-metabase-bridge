@@ -1,0 +1,23 @@
+# Environment files
+.env
+.env.*
+
+# Git
+.git
+.gitignore
+
+# Docker
+Dockerfile*
+docker-compose*.yml
+.dockerignore
+
+# Documentation
+README.md
+*.md
+
+# Scripts
+scripts/
+
+# OS
+.DS_Store
+Thumbs.db
